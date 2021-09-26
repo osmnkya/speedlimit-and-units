@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicWork", "AcademicWork.csproj", "{C33594A7-2E16-4637-A98A-ABFC35D0D61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33594A7-2E16-4637-A98A-ABFC35D0D61D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C33594A7-2E16-4637-A98A-ABFC35D0D61D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C33594A7-2E16-4637-A98A-ABFC35D0D61D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C33594A7-2E16-4637-A98A-ABFC35D0D61D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
